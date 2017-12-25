@@ -3,6 +3,9 @@
 自定制alert提示框
 
 *******************
+推荐更全面，可自定义程度更高的提示框框架：https://github.com/lixiang1994/LEEAlert
+*******************
+
 ##设置提示框默认的样式##
 XDAlertConfiguration *config = [[XDAlertConfiguration alloc] init];
 config.buttonBackgroundColor = [UIColor orangeColor];
